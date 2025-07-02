@@ -1,4 +1,4 @@
-# Resume-Analyzer-and-Matcher
+# Resume-Analyzer-and-Job Matcher
 Upload resume - compare with job description - score compatibility
 
 Steps: 
